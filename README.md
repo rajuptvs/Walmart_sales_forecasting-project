@@ -1,4 +1,4 @@
-# Walmart_sales_forecasting- Side Project
+# Walmart_sales_forecasting- Project 
 This dataset has been taken from one of the Kaggle's Competition by Walmart
 
 
